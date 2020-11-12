@@ -34,7 +34,7 @@ pio init -b heltec_wifi_lora_32 --ide vscode
 pio lib install
 
 cd src
-python setup.py
+python3.8 setup.py
 
 cd ..
 pio run -t upload && pio device monitor -b 115200
