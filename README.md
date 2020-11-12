@@ -1,6 +1,6 @@
 # LoRa Device
 
-ESP32 code to work with the [LoRa Server](https://github.com/douglasJovenil/lora-server)
+[ESP32 Heltec WiFi LoRa 32 (V1)](https://heltec.org/project/wifi-lora-32/) code to work with the [LoRa Server](https://github.com/douglasJovenil/lora-server)
 
 ## ☁️ Links
 - [LoRa Server](https://github.com/douglasJovenil/lora-server)
