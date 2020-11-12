@@ -29,7 +29,10 @@ Before you start the server theres some commands that you have to run, just copy
 
 ``` 
 git clone https://github.com/douglasJovenil/lora-device
-cd lora-device/src
+cd lora-device
+pio init -b esp32dev --ide vscode
+
+cd src
 python setup.py
 
 cd ..
